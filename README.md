@@ -2873,4 +2873,5 @@ sudo -l
 
 ## 8️⃣ Cambiar de usuario
 
+**Cambiar a otro usuario:**
 ```bash
